@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- BANNER -->
 <img src="COLOQUE_AQUI_O_LINK_DO_SEU_GIF" width="100%">
 
 <br><br>
 
-<!-- REDES -->
 <a href="https://github.com/Rapha3lMendess">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -22,77 +20,107 @@ Olá! Meu nome é Raphael, sou estudante de **Análise e Desenvolvimento de Sist
 
 Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, programação e desenvolvimento de software. Tenho interesse em aprender novas ferramentas e tecnologias e estou sempre buscando evoluir através dos estudos e da prática.
 
+---
+
 ## My favorite tools and technologies ⚙️
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-      <br><sub>Git</sub>
-    </td>
+<tr>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-      <br><sub>GitHub</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+<br>
+<sub>Git</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-      <br><sub>IntelliJ</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+<br>
+<sub>GitHub</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscodium.png" alt="VSCodium" title="VSCodium"/></code>
-      <br><sub>VSCodium</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
+<br>
+<sub>IntelliJ</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-      <br><sub>HTML</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscodium.png" alt="VSCodium" title="VSCodium"/></code>
+<br>
+<sub>VSCodium</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-      <br><sub>CSS</sub>
-    </td>
-  </tr>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+<br>
+<sub>HTML</sub>
+</td>
 
-  <tr>
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-      <br><sub>JavaScript</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+<br>
+<sub>CSS</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-      <br><sub>Java</sub>
-    </td>
+</tr>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-      <br><sub>Python</sub>
-    </td>
+<tr>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-      <br><sub>MySQL</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<br>
+<sub>JavaScript</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-      <br><sub>Windows</sub>
-    </td>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+<br>
+<sub>Java</sub>
+</td>
 
-    <td align="center">
-      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-      <br><sub>Linux</sub>
-    </td>
-  </tr>
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+<br>
+<sub>Python</sub>
+</td>
+
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+<br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+<br>
+<sub>Windows</sub>
+</td>
+
+<td align="center">
+<code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+<br>
+<sub>Linux</sub>
+</td>
+
+</tr>
 </table>
 
-<br>
+---
 
-## Github stats 📊
+## 📚 Atualmente estudando
+
+- ☕ Java
+- 🐍 Python
+- 🟨 JavaScript
+- 🌐 HTML e CSS
+- 🗄️ MySQL
+- 🔧 Git e GitHub
+- 💻 Desenvolvimento de software
+
+---
+
+## 📊 Github stats
 
 <details>
 <summary>▶ Github Profile Stats</summary>
@@ -135,9 +163,9 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 
 </details>
 
-<br>
+---
 
-## Recent GitHub Activity 🟩
+## 🔥 Recent GitHub Activity
 
 <div align="center">
 
