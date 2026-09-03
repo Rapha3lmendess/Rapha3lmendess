@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/3e/83/f7/3e83f714005877ef49171e52d173b19d.jpg" width="60%">
+<div align="center">
+  <img src="https://i.pinimg.com/736x/43/3e/96/433e9619cd083538ad69c046b4b10704.jpg"
+       width="90%"
+       height="180px"
+       style="object-fit: cover;">
+</div>
 
 <br><br>
 
