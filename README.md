@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/43/3e/96/433e9619cd083538ad69c046b4b10704.jpg"
        width="95%"
-       height="220px"
+       height="320px"
        style="object-fit: cover;">
 </div>
 
