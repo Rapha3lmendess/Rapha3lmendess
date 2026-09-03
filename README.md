@@ -1,30 +1,33 @@
 <div align="center">
 
-<div align="center">
   <img src="https://i.pinimg.com/736x/36/29/f9/3629f90cbd1ca6b0db6b7ebf35cf87df.jpg"
        width="95%"
        height="220px"
        style="object-fit: cover;">
-</div>
 
+  <br>
 
-<br><br>
+  <a href="https://github.com/Rapha3lMendess">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<a href="https://github.com/Rapha3lMendess">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/raphael-alvesdev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/raphael-alvesdev/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
 </div>
 
 <br>
 
-Olá! Meu nome é Raphael, sou estudante de **Análise e Desenvolvimento de Sistemas**.
+## 👋 Olá! Eu sou o Raphael
 
-Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, programação e desenvolvimento de software. Tenho interesse em aprender novas ferramentas e tecnologias e estou sempre buscando evoluir através dos estudos e da prática.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**.
+
+💻 Tenho interesse em **desenvolvimento de software, programação e tecnologia**, buscando transformar ideias em soluções práticas.
+
+📚 Atualmente estou aprimorando meus conhecimentos em **Java, Python, JavaScript, HTML, CSS e MySQL**, além de ferramentas como **Git e GitHub**.
+
+🚀 Busco evoluir constantemente através dos estudos e da prática, desenvolvendo novas habilidades e ampliando meus conhecimentos na área de tecnologia.
 
 ---
 
@@ -54,13 +57,13 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 
 ## 📚 Atualmente estudando
 
-- ☕ Java
-- 🐍 Python
-- 🟨 JavaScript
-- 🌐 HTML e CSS
-- 🗄️ MySQL
-- 🔧 Git e GitHub
-- 💻 Desenvolvimento de software
+- ☕ **Java**
+- 🐍 **Python**
+- 🟨 **JavaScript**
+- 🌐 **HTML e CSS**
+- 🗄️ **MySQL**
+- 🔧 **Git e GitHub**
+- 💻 **Desenvolvimento de software**
 
 ---
 
