@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="COLOQUE_AQUI_O_LINK_DO_SEU_GIF" width="100%">
+<img src="https://i.pinimg.com/736x/3e/83/f7/3e83f714005877ef49171e52d173b19d.jpg" width="100%">
 
 <br><br>
 
@@ -24,87 +24,25 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 
 ## My favorite tools and technologies ⚙️
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-<br>
-<sub>Git</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-<br>
-<sub>GitHub</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-<br>
-<sub>IntelliJ</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscodium.png" alt="VSCodium" title="VSCodium"/></code>
-<br>
-<sub>VSCodium</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-<br>
-<sub>HTML</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+
 <br>
-<sub>CSS</sub>
-</td>
 
-</tr>
-
-<tr>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-<br>
-<sub>JavaScript</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-<br>
-<sub>Java</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-<br>
-<sub>Python</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-<br>
-<sub>MySQL</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-<br>
-<sub>Windows</sub>
-</td>
-
-<td align="center">
 <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-<br>
-<sub>Linux</sub>
-</td>
 
-</tr>
-</table>
+</div>
 
 ---
 
@@ -137,6 +75,8 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 
 </details>
 
+---
+
 <details>
 <summary>▶ Activity Graph</summary>
 
@@ -149,6 +89,8 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 </div>
 
 </details>
+
+---
 
 <details>
 <summary>▶ Profile Views</summary>
@@ -165,10 +107,14 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 
 ---
 
-## 🔥 Recent GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rapha3lMendess&theme=dark">
 
 </div>
+
+---
+
+<h3 align="center">🚀 Sempre aprendendo, sempre evoluindo.</h3>
