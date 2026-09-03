@@ -25,73 +25,69 @@ Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, progra
 ## My favorite tools and technologies ⚙️
 
 <table align="center">
-<tr>
+  <tr>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+      <br><sub>Git</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git"/><br>
-Git
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+      <br><sub>GitHub</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub"/><br>
-GitHub
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
+      <br><sub>IntelliJ</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ"/><br>
-IntelliJ
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscodium.png" alt="VSCodium" title="VSCodium"/></code>
+      <br><sub>VSCodium</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscodium.png" alt="VSCodium"/><br>
-VSCodium
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+      <br><sub>HTML</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML"/><br>
-HTML
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+      <br><sub>CSS</sub>
+    </td>
+  </tr>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS"/><br>
-CSS
-</td>
+  <tr>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+      <br><sub>JavaScript</sub>
+    </td>
 
-</tr>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+      <br><sub>Java</sub>
+    </td>
 
-<tr>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+      <br><sub>Python</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript"/><br>
-JavaScript
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+      <br><sub>MySQL</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java"/><br>
-Java
-</td>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+      <br><sub>Windows</sub>
+    </td>
 
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python"/><br>
-Python
-</td>
-
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL"/><br>
-MySQL
-</td>
-
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows"/><br>
-Windows
-</td>
-
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux"/><br>
-Linux
-</td>
-
-</tr>
+    <td align="center">
+      <code><img width="68" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+      <br><sub>Linux</sub>
+    </td>
+  </tr>
 </table>
 
 <br>
