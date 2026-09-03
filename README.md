@@ -1,9 +1,9 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/43/3e/96/433e9619cd083538ad69c046b4b10704.jpg"
+  <img src="https://i.pinimg.com/736x/36/29/f9/3629f90cbd1ca6b0db6b7ebf35cf87df.jpg"
        width="95%"
-       height="320px"
+       height="220px"
        style="object-fit: cover;">
 </div>
 
